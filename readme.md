@@ -1,14 +1,11 @@
-# Youtube Backend
 
-## Description
+
+# Description
 
 This project serves as the backend for a YouTube-like platform, providing APIs for managing channels like adding, deleting, updating, subscribers, and subscriptions of a channel.
 
-## Live
-- It is deployed on Vercel [Live Link](https://dharmendra-portfolio-lake.vercel.app/).
-- (https://dharmendra-portfolio-lake.vercel.app/)
 
-## Table of Contents
+# Table of Contents
 
 1. [Technologies Used](#technologies-used)
 2. [Installation ](#installation)
@@ -20,7 +17,7 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 8. [Contributors](#contributors)
 9. [License](#license)
 
-## Technologies Used
+ #Technologies Used
 - Node.js 
 - Express.js
 - EJS 
@@ -31,18 +28,18 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 - Tailwind CSS 
 - JavaScript 
 
-## Installation
+# Installation
 
 1. Clone the repository.
 2. Navigate to the folder and run `npm install` to install backend dependencies.
 3. Run `node index.js` to start the backend server.
 
-## Features
+# Features
 - Lots of youtube backend api 
 - A simple user interface for visualization 
 - Free to use any api 
 
-## Routes
+# Routes
 
 | SN | Route | Method | Details |
 |----|-------|--------|---------|
@@ -55,7 +52,7 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 | 7  | /channelId/delete | DELETE | Delete a channel |
 | 8  | /channelId/update | PUT | Update a channel |
 
-## Folder Structure
+# Folder Structure
 
 <pre>
 |-- src
@@ -71,7 +68,7 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 |-- package-lock.json
 </pre>
 
-## Acknowledgments
+# Acknowledgments
 
 - [EJS](https://ejs.co/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -79,28 +76,4 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 - [Mongoose](https://mongoosejs.com/)
 - Google
 
-## Project History
 
-- First Commit : February 23, 2024
-- First Release : February 28, 2024
-- Updated Release : May updated the project for learning purpose.
-
-## Contributors
-
-- [dharmendra ](https://github.com/Dharmendra6944)
-- You are welcome to contribute here!
-
-## License
-
-You are free to:
-
-- Use — the software for any purpose
-- Share — Copy and redistribute the material in any medium or format
-- Adapt — Remix, transform, and build upon the material
-
-Under the following terms:
-
-- Attribution — You must give appropriate credit.
-- NonCommercial — You may not use material for commercial purposes.
-
-## Thank You
